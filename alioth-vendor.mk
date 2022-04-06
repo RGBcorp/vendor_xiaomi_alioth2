@@ -1329,4 +1329,5 @@ PRODUCT_PACKAGES += \
     manifest_vendor.xiaomi.hardware.mlipay \
     qcrilmsgtunnel \
     vendor.qti.gnss@4.0-service \
-    IWlanService 
+    IWlanService \
+    IFAAService 
